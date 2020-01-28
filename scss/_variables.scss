@@ -8,7 +8,7 @@ $colors: (
 
 $tablet: 600px;
 $laptop: 900px;
-$desktop: 110px;
+$desktop: 1100px;
 
 @function color($color-name) {
   @return map-get($colors, $color-name);
