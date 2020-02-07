@@ -1,5 +1,6 @@
 @import "_variables.scss";
 @import "_usergallery.scss";
+
 html {
   margin: 0;
   padding: 0;
@@ -10,9 +11,11 @@ html {
     font-size: 70%;
   } */
 }
+
 body {
   background-color: color(black);
 }
+
 .header {
   position: relative;
   height: 100vh;
